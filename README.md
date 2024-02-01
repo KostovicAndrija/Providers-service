@@ -28,6 +28,7 @@ Graphical User Interface (GUI)
 The GUI enables users to view provider information, list of clients, and packages categorized by type. Users can mark activated packages for a selected client, activate/deactivate packages, and add new clients seamlessly.
 
 Design Patterns
+
 This project showcases the implementation of several design patterns, including:
 
 Singleton, Factory Method, Repository pattern, Builder, Facade, Decorator, Observer, Memento
