@@ -16,8 +16,11 @@ This project involves the development of a .NET library and a graphical applicat
 Key Features
 
 -Adding new packages and clients 
--Activating/deactivating packages for clients 
+
+-Activating/deactivating packages for clients
+
 -Reading user and package information from a database 
+
 -Loading configuration data from the config.txt file for provider customization 
 
 Graphical User Interface (GUI)
