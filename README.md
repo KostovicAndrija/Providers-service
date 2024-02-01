@@ -36,3 +36,6 @@ This project showcases the implementation of several design patterns, including:
 - **Decorator**
 - **Observer**
 - **Memento**
+
+## Starting program
+Direct from editor.
